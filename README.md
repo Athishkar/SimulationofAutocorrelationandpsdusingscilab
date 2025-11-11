@@ -45,7 +45,7 @@ clear all;
 
 t=0:0.01:2*3.14;
 
-x=sin(10.5*t)+cos(10.5*t);
+x=sin(11*t)+cos(11*t);
 
 subplot(3,2,1);
 
@@ -78,7 +78,7 @@ plot(fw2);
 
 # OUTPUT:
 
-<img width="1920" height="1200" alt="Screenshot 2025-11-11 214013" src="https://github.com/user-attachments/assets/ca2b8c92-d7ad-4fcf-a92d-9b5d374e3bfc" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0d67e321-8d1a-4bb0-a733-f0f820f60d81" />
 
 
 
